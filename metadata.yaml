@@ -1,5 +1,6 @@
 homepage: "https://www.yashmalviya.com"
 documentation: "https://www.example.com/documentation"
 versions:
-  - sha: 3cc584d4ff1d033aed13b2b6fe0976982ae62313
-    changeNotes: Initial release.
+  # Latest version
+  - sha: 7946d0117af5a3d7f1f2d4619f5519c80310e896
+    changeNotes: Initial release
