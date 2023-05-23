@@ -1,0 +1,5 @@
+homepage: "https://www.yashmalviya.com"
+documentation: "https://www.example.com/documentation"
+versions:
+  - sha: 3cc584d4ff1d033aed13b2b6fe0976982ae62313
+    changeNotes: Initial release.
